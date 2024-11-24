@@ -1,13 +1,17 @@
-# Projetos-WEB-I-HTML  
+# Projetos-WEB-I-HTML 🌐  
 
-Projetos desenvolvidos em HTML para a disciplina de WEB I (Turma 1).  
+Projetos desenvolvidos em HTML para a disciplina de **WEB I** (Turma 1).  
 
-## 📂 Arquivos  
+## 📂 Projetos  
 
-- [Apresentação Pessoal](apresentação_pessoal)  
-- [Meu Portfólio](meu_portifolio)  
-- [Página de Receitas](pagina_de_receitas)  
-- [Site Pessoal](site_pessoal)  
-- [Tabela de Notas](tabela_de_notas)
-- [Roteiro de Viagens](roteiro_de_viagens) 
-- [Cadastro de Usuário](cadastro_de_usuario)  
+- 🔹 [**Apresentação Pessoal**](apresentação_pessoal)  
+- 🔹 [**Cadastro de Usuário**](cadastro_de_usuario)  
+- 🔹 [**Meu Portfólio**](meu_portifolio)  
+- 🔹 [**Página de Receitas**](pagina_de_receitas)  
+- 🔹 [**Roteiro de Viagens**](roteiro_de_viagens)  
+- 🔹 [**Site Pessoal**](site_pessoal)  
+- 🔹 [**Tabela de Notas**](tabela_de_notas)  
+
+---
+
+🚀 **Fique à vontade para explorar e acompanhar minha jornada de aprendizado!** 😊  
